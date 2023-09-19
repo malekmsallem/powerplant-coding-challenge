@@ -62,3 +62,35 @@ C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier\powerplant-coding-challenge\Power
 C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.pdb
 C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.genruntimeconfig.cache
 C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\ref\PowerPlanApi.dll
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\PowerPlanApi.exe
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\PowerPlanApi.deps.json
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\PowerPlanApi.runtimeconfig.json
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\PowerPlanApi.dll
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\PowerPlanApi.pdb
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.csproj.AssemblyReference.cache
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.AssemblyInfoInputs.cache
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.AssemblyInfo.cs
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.csproj.CoreCompileInputs.cache
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\staticwebassets\msbuild.PowerPlanApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PowerPlanApi.props
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PowerPlanApi.props
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PowerPlanApi.props
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\scopedcss\bundle\PowerPlanApi.styles.css
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.csproj.CopyComplete
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.dll
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\refint\PowerPlanApi.dll
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.pdb
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\PowerPlanApi.genruntimeconfig.cache
+C:\Users\Mslmm\OneDrive\Bureau\Nouveau dossier (2)\powerplant-coding-challenge\PowerPlanApi\obj\Debug\net6.0\ref\PowerPlanApi.dll

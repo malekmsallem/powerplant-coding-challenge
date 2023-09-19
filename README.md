@@ -8,7 +8,7 @@ Docker (optional)
  # Getting Started
 Building the API
 Clone this repository to your local machine:
-git clone https://github.com/malekmsallem/powerplant-api.git
+git clone https://github.com/malekmsallem/powerplant-coding-challenge.git
 Navigate to the project directory:
 
 

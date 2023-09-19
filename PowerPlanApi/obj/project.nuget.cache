@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S7C1omo/VEP4EFOCOK6Q2BCJrS5uKAYoCvJ0xXi3ZZOW4viRIYgKHlYjGT30snPz8kqhMGVbDSMRUmROFuYaxw==",
+  "dgSpecHash": "k/yOP8D+ytU/XqVj20FPS0mmwmQgGXPK1lngOxJ8iLw51wqhsYcXDYLS0qlMg7cqOZoP/AmFQCA9k4O1XVeOEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mslmm\\OneDrive\\Bureau\\Nouveau dossier\\powerplant-coding-challenge\\PowerPlanApi\\PowerPlanApi.csproj",
+  "projectFilePath": "C:\\Users\\Mslmm\\OneDrive\\Bureau\\Nouveau dossier (2)\\powerplant-coding-challenge\\PowerPlanApi\\PowerPlanApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mslmm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Mslmm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

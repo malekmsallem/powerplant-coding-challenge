@@ -531,11 +531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mslmm\\OneDrive\\Bureau\\Nouveau dossier\\powerplant-coding-challenge\\PowerPlanApi\\PowerPlanApi.csproj",
+      "projectUniqueName": "C:\\Users\\Mslmm\\OneDrive\\Bureau\\Nouveau dossier (2)\\powerplant-coding-challenge\\PowerPlanApi\\PowerPlanApi.csproj",
       "projectName": "PowerPlanApi",
-      "projectPath": "C:\\Users\\Mslmm\\OneDrive\\Bureau\\Nouveau dossier\\powerplant-coding-challenge\\PowerPlanApi\\PowerPlanApi.csproj",
+      "projectPath": "C:\\Users\\Mslmm\\OneDrive\\Bureau\\Nouveau dossier (2)\\powerplant-coding-challenge\\PowerPlanApi\\PowerPlanApi.csproj",
       "packagesPath": "C:\\Users\\Mslmm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mslmm\\OneDrive\\Bureau\\Nouveau dossier\\powerplant-coding-challenge\\PowerPlanApi\\obj\\",
+      "outputPath": "C:\\Users\\Mslmm\\OneDrive\\Bureau\\Nouveau dossier (2)\\powerplant-coding-challenge\\PowerPlanApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mslmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
